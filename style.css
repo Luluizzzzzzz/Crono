@@ -1,0 +1,41 @@
+.body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    height: 0.5em;
+    width:auto;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.button1 {
+    color: white;
+    background-color: green;
+    border-radius: 7px;
+    width: 50px;
+    height: 35px;
+}
+
+.button2 {
+    color: black;
+    background-color: yellow;
+    border-radius: 7px;
+    width: 65px;
+    height: 35px;
+}
+
+.button3 {
+    color: white;
+    background-color: red;
+    border-radius: 7px;
+    width: 50px;
+    height: 35px;
+}
